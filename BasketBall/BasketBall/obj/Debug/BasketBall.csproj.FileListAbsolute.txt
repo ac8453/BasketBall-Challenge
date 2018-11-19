@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\BasketBall\BasketBall\bin\Debug\BasketBall.exe.config
+C:\Users\Alan\source\repos\BasketBall\BasketBall\bin\Debug\BasketBall.exe
+C:\Users\Alan\source\repos\BasketBall\BasketBall\bin\Debug\BasketBall.pdb
+C:\Users\Alan\source\repos\BasketBall\BasketBall\obj\Debug\BasketBall.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\BasketBall\BasketBall\obj\Debug\BasketBall.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\BasketBall\BasketBall\obj\Debug\BasketBall.exe
+C:\Users\Alan\source\repos\BasketBall\BasketBall\obj\Debug\BasketBall.pdb
