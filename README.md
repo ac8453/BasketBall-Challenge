@@ -1,14 +1,15 @@
-Basketball
-^^^^^^^^^^
+Basketball<br>
+^^^^^^^^^^<br>
 
-Your task is to create a program that will output based on the following rules for all numbers between 1 and 200.
+Your task is to create a program that will output based on the following rules for all numbers between 1 and 200.<br>
 
-Output "Basket" whenever the number being checked is direclty divisible by three
-Output "Ball" whenever the number being checked is directly divisible by seven
-Output "BasketBall" whenver the number is directly divisible by both three and seven
-Output the number if it is not divisible by three or seven
+Output "Basket" whenever the number being checked is direclty divisible by three<br>
+Output "Ball" whenever the number being checked is directly divisible by seven<br>
+Output "BasketBall" whenver the number is directly divisible by both three and seven<br>
+Output the number if it is not divisible by three or seven<br>
 						
-e.g. 	14 would output: Ball
-		  21 would output: BasketBall
+e.g.<br>
+14 would output: Ball<br>
+21 would output: BasketBall<br>
 		
 Extra marks for being "good" programmers
