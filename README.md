@@ -5,7 +5,7 @@ Your task is to create a program that will output based on the following rules f
 
 Output "Basket" whenever the number being checked is direclty divisible by three<br>
 Output "Ball" whenever the number being checked is directly divisible by seven<br>
-Output "BasketBall" whenver the number is directly divisible by both three and seven<br>
+Output "BasketBall" whenever the number is directly divisible by both three and seven<br>
 Output the number if it is not divisible by three or seven<br>
 						
 e.g.<br>
